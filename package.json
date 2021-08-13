@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mailgun-js": "^0.22.0",
     "mongoose": "^5.8.9",
-    "next": "^9.2.0",
+    "next": "^11.1.0",
     "next-sass": "^1.0.3",
     "next-seo": "^4.1.0",
     "node-sass": "^4.13.1",
